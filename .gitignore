@@ -3,6 +3,7 @@
 .idea/
 *.iml
 *.iws
+*.exe
 
 ## Plugin-specific files:
 
