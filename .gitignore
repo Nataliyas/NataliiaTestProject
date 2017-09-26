@@ -48,3 +48,5 @@ buildNumber.properties
 # WebDrivers #
 src/main/resources/drivers/
 usr/
+src/main/resources/
+src/test/
